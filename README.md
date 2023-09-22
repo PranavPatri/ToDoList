@@ -13,3 +13,6 @@ This is a basic ToDoList Application buit using `Nodejs` and for running server,
    This is connected by using <a href='https://www.npmjs.com/package/mongoose'>mongoose</a> library which is simpler in syntax and makes lot easier for all CRUD operations than its <a href='https://www.npmjs.com/package/mongodb'>Native MongoDB Driver</a> which is difficult in syntax and understanding.
 3. <a href='https://www.npmjs.com/package/lodash'>lodash</a> library is used to avoid case sensitivity.
 4. <a href='https://www.npmjs.com/package/body-parser'>body-parser</a> library is used to extract the data from the user to the server.
+
+### Future Advancements to Project
+This project haven't implemented using any of frontend frameworks. As I'm currently in learning stage of React, I'll use that in this too.
